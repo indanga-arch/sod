@@ -1,0 +1,2 @@
+# sod
+this the first repository of G.S.I DEPARTMENT OF ICT &amp; MULTIMEDIA, TRADE OF SOFTWARE DEVELOPMENT, YEAR 2026-2027
